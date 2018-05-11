@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">onepageproject1</string>
+    // text under logo
+    <string name="tagline">We Do</string>
+    // Text for ViewFlipper1 animation
+    <string name="slide1">Computers</string>
+    <string name="slide2">Servers</string>
+    <string name="slide3">Networks</string>
+    <string name="slide4">Switches &amp; Routers</string>
+    // text for business contact info
+    <string name="company">Technogizmo</string>
+    <string name="address">PO Box 224492\nDallas, TX 75222 USA</string>
+    <string name="phone">214-415-2877</string>
+    <string name="web"><a href="https://technogizmo.com">www.technogizmo.com</a></string>
+    //text for image alt tags for accessibility
+    <string name="bkdg_desc">open laptop with pencils laying on the keyboard</string>
+    <string name="logo_desc">Technogizmo is a computer network support company in the Dallas area</string>
+</resources>
